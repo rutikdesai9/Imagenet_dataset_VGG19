@@ -10,9 +10,6 @@ scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
 gevent==1.2.0
-tensorboard==2.2.2
-tensorboard-plugin-wit==1.7.0
-tensorboardcolab==0.0.22
 tensorflow==2.2.0
 tensorflow-addons==0.8.3
 tensorflow-datasets==2.1.0
@@ -22,15 +19,7 @@ tensorflow-hub==0.8.0
 tensorflow-metadata==0.22.2
 tensorflow-privacy==0.2.2
 tensorflow-probability==0.10.0
-Django==3.0.8
 flask-ngrok==0.0.25
-folium==0.8.3
-html5lib==1.0.1
-httpimport==0.5.18
-httplib2==0.17.4
-httplib2shim==0.0.3
-humanize==0.5.1
-hyperopt==0.1.2
 image==1.5.32
 imageio==2.4.1
 imagesize==1.2.0
