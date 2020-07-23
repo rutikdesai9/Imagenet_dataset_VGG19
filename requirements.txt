@@ -24,7 +24,6 @@ tensorflow-metadata==0.22.2
 tensorflow-privacy==0.2.2
 tensorflow-probability==0.10.0
 Django==3.0.8
-Flask==1.1.2
 flask-ngrok==0.0.25
 folium==0.8.3
 html5lib==1.0.1
